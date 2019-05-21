@@ -1,0 +1,28 @@
+{
+  "Retorno": [
+    {
+      "Descricao": "Aguardando Analise",
+      "Id": 1,
+      "IdPai": 2,
+      "SubStatus": []
+    },
+    {
+      "Descricao": "Aguardando Analise orgão",
+      "Id": 2,
+      "IdPai": 2,
+      "SubStatus": []
+    },
+    {
+      "Descricao": "Aguardando retorno CIP",
+      "Id": 3,
+      "IdPai": 2,
+      "SubStatus": []
+    },
+    {
+      "Descricao": "Efetivação Port",
+      "Id": 4,
+      "IdPai": 2,
+      "SubStatus": []
+    }
+  ]
+}

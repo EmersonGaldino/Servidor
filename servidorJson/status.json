@@ -1,0 +1,66 @@
+{
+  "Retorno": [
+    {
+      "Descricao": "Aguardando Formalização",
+      "Id": 1,
+      "SubStatus": [
+        {
+          "Descricao": "Enviar fisico",
+          "Id": 2,
+          "IdPai": 1
+        },
+        {
+          "Descricao": "Fisico Enviado",
+          "Id": 3,
+          "IdPai": 1
+        },
+        {
+          "Descricao": "Reagendar Coleta",
+          "Id": 4,
+          "IdPai": 1
+        },
+        {
+          "Descricao": "Reagendado",
+          "Id": 5,
+          "IdPai": 1
+        },
+        {
+          "Descricao": "Digital CPF",
+          "Id": 6,
+          "IdPai": 1
+        },
+        {
+          "Descricao": "Pendente envio",
+          "Id": 7,
+          "IdPai": 1
+        }
+      ]
+    },
+    {
+      "Descricao": "Em analise",
+      "Id": 2,
+      "SubStatus": [
+        {
+          "Descricao": "Aguardando Analise",
+          "Id": 1,
+          "IdPai": 2
+        },
+        {
+          "Descricao": "Aguardando Analise orgão",
+          "Id": 2,
+          "IdPai": 2
+        },
+        {
+          "Descricao": "Aguardando retorno CIP",
+          "Id": 3,
+          "IdPai": 2
+        },
+        {
+          "Descricao": "Efetivação Port",
+          "Id": 4,
+          "IdPai": 2
+        }
+      ]
+    }
+  ]
+}

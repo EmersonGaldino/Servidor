@@ -1,0 +1,111 @@
+{
+  "Retorno": [
+    {
+      "nome": "Benedita Ramos",
+      "DataNascimento": "01/01/1980",
+      "Cpf": "98765432100",
+      "Matricula": "1127759571",
+      "Convenio": "INSS",
+      "Correios": "PA123456789BR",
+      "Proposta": "758587654",
+      "Coleta": [
+        {
+          "Agendamento": "24/04/2019",
+          "Coleta": "Digital",
+          "Obs": "Coleta ainda nao reaizada"
+        }
+      ],
+      "Alertas": [
+        {
+          "Tipo": "Bloqueio",
+          "Mensagem": "Cliente fora de politicas internas.",
+          "Color": "#666"
+        },
+        {
+          "Tipo": "Aviso",
+          "Mensagem": "Proposta tratada nos ultimos 30 dias.",
+          "Color": "#0000"
+        }
+      ],
+      "Contas": [
+        {
+          "Banco": "ITAU",
+          "Agencia": "1234-0",
+          "Obs": "Conta ativa"
+        }
+      ],
+      "Telefones": [
+        {
+          "Numero": "(11) 98862-4571",
+          "Tipo": "HOT"
+        },
+        {
+          "Numero": "(11) 99289-1606",
+          "Tipo": "INDICAÇÂO"
+        }
+      ],
+      "Enderecos": [
+        {
+          "Logradouro": "Rua XPTO",
+          "Numero": "22",
+          "Bairro": "Jd Santa Clara",
+          "Cep": "06655350",
+          "Complemento": "Centro",
+          "Cidade": "Barueri"
+        }
+      ],
+      "Emails": [
+        {
+          "Email": "emerson.costa@parnergroup.com.br",
+          "Tipo": "Profissional"
+        },
+        {
+          "Email": "galdino@partnergroup.com.br",
+          "Tipo": "Pessoal"
+        }
+      ],
+      "Status": [
+        {
+          "Status": "Reprovado",
+          "SubStatus": "Proposta não Digitada",
+          "Obs": "Por motivos obvios"
+        },
+        {
+          "Status": "Aguardando Formalização",
+          "SubStatus": "Enviar Fisico",
+          "Obs": "Aguardando"
+        }
+      ],
+      "Historicos": [
+        {
+          "TipoHistorico": "Esteira",
+          "Usuario": "Sheyzi.Andrade",
+          "Inclusao": "24/04/2019",
+          "Obs": "Não Digitada"
+        },
+        {
+          "TipoHistorico": "Esteira",
+          "Usuario": "Bruno.Verissimo",
+          "Inclusao": "26/04/2019",
+          "Obs": "Aguardando dados"
+        }
+      ],
+      "Propostas": [
+        {
+          "BancoOrigem": "Banco Cetelem",
+          "BancoDestino": "Banco Cetelem",
+          "Valor": 1.95,
+          "ValorLiquido": 987.99,
+          "Valorparcela": 99.99,
+          "valorQuitacao": 800.0,
+          "Prazo": 72,
+          "ParcelasPagas": 30,
+          "Taxa": 6.9,
+          "DataAverbacao": "01/01/2001",
+          "Produto": "Refin Portabilidade",
+          "Tabela": "Refin"
+        }
+      ]
+    }
+  ]
+}
